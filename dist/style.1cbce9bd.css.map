@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACI,uBACJ,CAEA,SACI,wBAA8B,CAC9B,sBAAuB,CACvB,cACJ","file":"style.1cbce9bd.css","sourceRoot":"../src","sourcesContent":["body {\n    background-color: salmon;\n}\n\n.words p {\n    border: 2px solid lightskyblue;\n    font-family: sans-serif;\n    font-size: 3rem;\n}"]}

@@ -1,0 +1,3 @@
+Create proper Shiritori rules
+Disable input when p1 plays => p2 disabled and vice versa
+input.disabled = true ===> have state
